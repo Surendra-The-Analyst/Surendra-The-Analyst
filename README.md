@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Internships and Projects to increase my skills
 - 📫 How to reach me surendra.bheemanathini@gmmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i just started my journey on github i dont know how to use github😂(maybe after i am familiar
- i may change this fun fact😉
+- ⚡ Fun fact: i just started my journey on github i dont know how to use github😂(maybe after i am familiar with this
+ i might change this fun fact😉
 
 <!---
 Surendra-The-Analyst/Surendra-The-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
